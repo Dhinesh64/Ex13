@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="books.xsl"?>
+<!--
+To change this template, choose Tools | Templates
+and open the template in the editor.
+-->
+<books>
+    <book>
+        <title>The Rain in Espana</title>
+        <author>Theodore Boborol</author>
+        <year>2023</year>
+    </book>
+    <book>
+        <title>And Then There Were None1</title>
+        <author>Agatha Christie</author>
+        <year>1999</year>
+    </book>
+    <book>
+        <title>To Kill a Mockingbird</title>
+        <author>Harper Lee</author>
+        <year>1960</year>
+    </book>
+    <book>
+        <title>The Great Gatsby</title>
+        <author>F. Scott Fitzgerald</author>
+        <year>1925</year>
+    </book>
+    <book>
+        <title>Harry Potter and the Philosopher's Stone</title>
+        <author>J. K. Rowling</author>
+        <year>2015</year>
+    </book>
+</books>
